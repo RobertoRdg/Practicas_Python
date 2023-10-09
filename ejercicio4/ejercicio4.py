@@ -1,0 +1,10 @@
+nombre = input("Introduce tu nombre: ")
+apellidoP = input("Introduce tu apellido paterno: ")
+apellidoM = input("Introduce tu apellido materno: ")
+edad = int(input("Introduce tu edad: "))
+
+print("\nInformación ingresada:")
+print(f"Nombre: {nombre}")
+print(f"Apellido Paterno: {apellidoP}")
+print(f"Apellido Materno: {apellidoM}")
+print(f"Edad: {edad}")
